@@ -1,0 +1,10 @@
+{
+    "outlook": {
+        "smtp_server": "smtp.office365.com",
+        "imap_server": "imap-mail.outlook.com"
+    },
+    "gmail": {
+        "smtp_server": "smtp.gmail.com",
+        "imap_server": "imap.gmail.com"
+    }
+}
